@@ -17,3 +17,7 @@ A simple, interactive command-line implementation of the classic Tic-Tac-Toe gam
 3. Run the script using Python:
    ```bash
    python tic_tac_toe.py
+   
+## How to Play 🕹️
+The game displays a 3x3 grid numbered from 1 to 9.
+Players alternate turns choosing a number corresponding to the square where they want to place their mark (X or O).
